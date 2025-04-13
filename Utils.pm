@@ -12,7 +12,7 @@ use Readonly;
 # Constants.
 Readonly::Array our @EXPORT => qw(material_type);
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 sub material_type {
 	my $leader = shift;
@@ -172,6 +172,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.01
+0.02
 
 =cut

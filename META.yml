@@ -22,6 +22,7 @@ meta-spec:
 name: MARC-Leader-Utils
 no_index:
   directory:
+    - examples
     - inc
     - t
     - xt

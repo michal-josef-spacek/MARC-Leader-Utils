@@ -28,6 +28,7 @@ no_index:
 requires:
   Error::Pure: 0
   Exporter: 0
+  List::Util: 0
   Readonly: 0
   Scalar::Util: 0
   perl: 5.6.2

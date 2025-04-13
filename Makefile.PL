@@ -19,6 +19,7 @@ readme_from 'Utils.pm';
 recursive_author_tests('xt');
 requires 'Error::Pure' => 0;
 requires 'Exporter' => 0;
+requires 'List::Util' => 0;
 requires 'Scalar::Util' => 0;
 requires 'Readonly' => 0;
 requires 'perl' => '5.6.2';

@@ -44,7 +44,7 @@ sub material_type {
 	} elsif ($leader->type eq 'p') {
 		$material_type = 'mixed_material';
 	} else {
-		err "Unsupported 008 type.";
+		err "Unsupported material type.";
 	}
 
 	return $material_type;

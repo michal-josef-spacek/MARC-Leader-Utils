@@ -18,6 +18,7 @@ META.yml
 README
 t/MARC-Leader-Utils/01-use.t
 t/MARC-Leader-Utils/02-version.t
+t/MARC-Leader-Utils/03-material_type.t
 Utils.pm
 xt/MARC-Leader-Utils/01-pod_coverage.t
 xt/MARC-Leader-Utils/02-pod.t

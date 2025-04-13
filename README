@@ -6,6 +6,9 @@ SYNOPSIS
 
      my $material_type = material_type($leader_obj);
 
+DESCRIPTION
+    The Perl module with common utilities for work with MARC leader field.
+
 SUBROUTINES
   "material_type"
      my $material_type = material_type($leader_obj);

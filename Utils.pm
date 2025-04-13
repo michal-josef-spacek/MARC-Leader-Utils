@@ -68,6 +68,10 @@ MARC::Leader::Utils - Utilities for MARC::Leader.
 
  my $material_type = material_type($leader_obj);
 
+=head1 DESCRIPTION
+
+The Perl module with common utilities for work with MARC leader field.
+
 =head1 SUBROUTINES
 
 =head2 C<material_type>

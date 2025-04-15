@@ -19,8 +19,19 @@ SUBROUTINES
 
     Returned strings are:
 
-    *       book =item * computer_file =item * continuing_resource =item *
-            map =item * mixed_material =item * music =item * visual_material
+    *       book
+
+    *       computer_file
+
+    *       continuing_resource
+
+    *       map
+
+    *       mixed_material
+
+    *       music
+
+    *       visual_material
 
     Returns string.
 

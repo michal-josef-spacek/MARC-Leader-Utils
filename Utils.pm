@@ -88,11 +88,17 @@ Returned strings are:
 =over 8
 
 =item * book
+
 =item * computer_file
+
 =item * continuing_resource
+
 =item * map
+
 =item * mixed_material
+
 =item * music
+
 =item * visual_material
 
 =back
